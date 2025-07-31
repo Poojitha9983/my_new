@@ -1,0 +1,3 @@
+l1=["apple","mango","blueberry"]
+for i in l1:
+    print(i,"=",len(i))
